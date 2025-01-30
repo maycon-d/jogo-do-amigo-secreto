@@ -1,1 +1,2 @@
-# jogo-do-amigo-secreto
+# Projeto alura desenvolvido em JavaScript.
+mini game 🎮🕹️
